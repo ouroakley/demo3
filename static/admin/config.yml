@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: username/repo
+  repo: ouroakley/demo3
   branch: main # Branch to update (optional; defaults to master)
   site_domain: https://demo3.ouroakley.uk
   base_url: https://demo3.ouroakley.uk
